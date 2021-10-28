@@ -68,6 +68,13 @@ To test using your device:
 https://yourGithubUsername.github.io/lab1/index.html
 ```
 
+**Note:** If you are getting an error when trying to load your page
+1. Navigate here: https://github.com/<yourusername>/lab0/settings/pages (Links to an external site.) - Make sure to change <yourusername> to your github username.
+
+2. It will ask you which branch you are working in for your project  (e.g. gh-pages).
+
+3. Click save.
+
 **Step 7:** Continue to style your app by defining some padding (https://www.w3schools.com/css/css_padding.asp). 
 Add the following code to the style.css file.
 ```
