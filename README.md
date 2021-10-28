@@ -69,7 +69,7 @@ https://yourGithubUsername.github.io/lab1/index.html
 ```
 
 **Note:** If you are getting an error when trying to load your page
-1. Navigate here: https://github.com/YourUserName/lab1/settings/pages - Make sure to change YourUserName to your github username.
+1. Navigate here: https://github.com/yourGithubUsername/lab1/settings/pages - Make sure to change yourGithubUsername to your github username.
 
 2. It will ask you which branch you are working in for your project  (e.g. gh-pages).
 
