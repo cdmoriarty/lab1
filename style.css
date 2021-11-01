@@ -7,14 +7,14 @@ header {
 }
 h1 {
     font-family:  Times, "Times New Roman", Georgia, serif;
-    font-weight:  condensed;
+    font-weight:  bold;
     color: #AC2B37; 
     font-size: 20px;
     padding:5px;
 }
 body {
     font-family:  Times, "Times New Roman", Georgia, serif;
-    font-weight:  condensed;
+    font-weight:  bold;
     color: #000000; 
     font-size: 15px;
     padding:2px;
@@ -55,10 +55,10 @@ nav li:active {
     background-image: none;
     box-shadow: inset 0 3px 3px rgba(0, 0, 0, .2);
   }
-  body {
+footer {
     font-family:  Times, "Times New Roman", Georgia, serif;
     font-weight:  condensed;
     color: #000000; 
-    font-size: 8px;
+    font-size: 10px;
     padding:10px;
 }
