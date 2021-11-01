@@ -3,7 +3,7 @@ header {
     font-weight: bold condensed;
     color: #AC2B37; 
     font-size: 25px;
-    padding:10px;
+    padding:2px;
 }
 h1 {
     font-family:  Times, "Times New Roman", Georgia, serif;
@@ -17,10 +17,10 @@ body {
     font-weight:  bold;
     color: #000000; 
     font-size: 15px;
-    padding:2px;
+    padding:10px;
 }
 #content {
-    padding:3px;
+    padding:10px;
 }
 #WPI{
     /*center the image*/
@@ -41,7 +41,7 @@ body {
    text-decoration: none; /* remove underline */
    border-radius: 10px;  /* rounded corners */
    margin: 6px;
-   padding: 9px;
+   padding: 15px;
    color: #222;
    font-weight: bold;
 
@@ -60,5 +60,5 @@ footer {
     font-weight:  condensed;
     color: #000000; 
     font-size: 10px;
-    padding:10px;
+    padding:2px;
 }
