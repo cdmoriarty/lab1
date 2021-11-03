@@ -10,14 +10,21 @@ h1 {
     font-weight:  bold;
     color: #AC2B37; 
     font-size: 20px;
-    padding:5px;
+    padding-left: 0px;
+    padding-bottom:10px;
+}
+p {
+    padding-left:20px;
+    padding-bottom: 10px;
 }
 body {
     font-family:  Times, "Times New Roman", Georgia, serif;
     font-weight:  bold;
     color: #000000; 
     font-size: 15px;
-    padding:10px;
+    padding-left:10px;
+    padding-bottom: 15px;
+    background-color: #A9B0B7;
 }
 #content {
     padding:10px;
